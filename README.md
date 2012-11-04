@@ -1,6 +1,6 @@
 # Octopress Themes - New York Theme
 
-![Octopress New York Theme thumbnail](https://s3.amazonaws.com/static.liangzan.net/new-york-thumbnail.png)
+![Octopress New York Theme thumbnail](https://s3.amazonaws.com/static.octopressthemes.com/thumbnails/new-york-thumbnail.png)
 
 New York theme is a theme hand made for Octopress blogging framework. It is compatible with Octopress 2. Updates will be provided from this repository.
 
