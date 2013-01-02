@@ -13,7 +13,7 @@ You can choose to install as a Git submodule. Or you can download as a zip archi
 These instructions will create a git submodule under the __.themes/new-york__ directory. From your blog directory, run these commands.
 
 ``` sh
-git submodule add git://github.com:octopress-themes/new-york.git .themes/new-york
+git submodule add git://github.com/octopress-themes/new-york.git .themes/new-york
 ```
 
 You should then commit the changes.
